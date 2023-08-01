@@ -1,4 +1,4 @@
-## Jméno sborečku
+# Jméno sborečku
 
 Dlouho jsme hledali jméno, které by bylo stručné a zvučné. 
 Uznejte sami, že _Komorní pěvecký sbor při Základní umělecké škole v Uherském Hradišti_ je příliš dlouhé.
@@ -6,9 +6,9 @@ Pomáhala nám umělá inteligence [ChatGPT](chat_gpt.md), několik encyklopedic
 
 Nakonec jsme vybrali jméno **Chorus Castelli**, což by mělo znamenat **Sbor Hradišťský**, volněji **Zpěváci z Hradiště**.
 
-## Repertoár
+# Repertoár
 
-### Ave Generosa
+## Ave Generosa
 
 * Text: Hildegard von Bingen (1098 -- 1179), magistra benediktinského kláštera v Rupertsbergu
 * Hudba: Ola Gjeilo
