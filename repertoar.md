@@ -10,7 +10,7 @@
 ## Ave Generosa
 
 * Text: Hildegard von Bingen (1098 -- 1179), magistra benediktinského kláštera v Rupertsbergu
-* Hudba: [Ola Gjeilo](https://olagjeilo.com/sheet-music/choral-satb-a-cappella/ave-generosa-satb/)
+* Hudba: [Ola Gjeilo](https://olagjeilo.com/sheet-music/choral-satb-a-cappella/ave-generosa-satb/) (1978), norský skladatel
 * Význam: je to hymnus na Pannu Marii
 * Překlad: Zdrávas, vznešená, plná slávy a nedotčená dívko, Ty zřítelnice čistoty, Ty látko svatosti, v níž Bůh si zalíbil!
 
