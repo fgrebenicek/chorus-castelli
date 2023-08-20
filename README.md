@@ -8,7 +8,7 @@ Nakonec jsme vybrali jméno **Chorus Castelli**, což by mělo znamenat **Sbor H
 
 # Akce
 
-* **Mimořádná zkouška:** v úterý 8.8. v 19:00 v ZUŠ v Uherském Hradišti.
+* **Mimořádná zkouška:** v pátek 1.9. ve 14:00 (už?) v ZUŠ v Uherském Hradišti.
 * **Koncert:** v rámci XX. [Slováckých slavností vína](https://slavnostivinauh.cz/akce_slavnosti/chorus-castelli/) a otevřených památek, v neděli 10.9.2023 v čase 10:30 -- 11:30 hodin v Kostele Zvěstování Panny Marie, Uherské Hradiště, Mariánské náměstí
 
 * [Minulé akce](akce_archiv.md)
