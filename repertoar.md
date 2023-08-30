@@ -14,6 +14,18 @@
 * Význam: je to hymnus na Pannu Marii
 * Překlad: Zdrávas, vznešená, plná slávy a nedotčená dívko, Ty zřítelnice čistoty, Ty látko svatosti, v níž Bůh si zalíbil!
 
+## Northern Lights (Severní polární záře)
+
+* Latinský text **Pulchra es** z Šalamounovy Písně písní 6,4-5
+* Hudba: [Ola Gjeilo](https://olagjeilo.com/sheet-music/choral-satb-a-cappella/northern-lights/) (Oslo, leden 2008) \
+  je inspirována také éterickým jevem polární záře.
+* Význam: je to dílo o kráse, o "strašné" síle krásy.
+* Překlad: \
+  Jsi krásná, má přítelkyně, sladká a krásná dcero Jeruzaléma. \
+  Jsi krásná, má přítelkyně, sladká a krásná jako Jeruzalém, strašná jako vojsko pod praporci. \
+  Odvrať ode mne své oči, vždyť mě uhranuly!
+
+
 # Rejstřík skladatelů
 
 * [Ola Gjeilo](https://olagjeilo.com/), Norsky: [ˈûːlɑ ˈjæ̀ɪlʊ]; narozen 5. května 1978
