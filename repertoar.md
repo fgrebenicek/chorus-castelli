@@ -2,8 +2,8 @@
 
 ## Ascendit Deus
 
-* Text: Žalm 47, verš 6... (Bible)
 * Hudba: Peter Philips (c.1565 -- c.1635)
+* Text: Žalm 47, verš 6... (Bible)
 * Překlad: Bůh se vznáší za jásotu, Hospodin vystupuje za hlaholu polnice...
 * Ukázka na [YouTube](https://www.youtube.com/watch?v=Kc6F6RecWSo)
 
@@ -17,8 +17,8 @@
 ## Northern Lights (Severní polární záře)
 
 * Hudba: [Ola Gjeilo](https://olagjeilo.com/sheet-music/choral-satb-a-cappella/northern-lights/) (Oslo, leden 2008) \
-* Latinský text **Pulchra es** z Šalamounovy Písně písní 6,4-5 \
-  hudba je inspirována také éterickým jevem polární záře.
+  je inspirována také éterickým jevem polární záře.
+* Latinský text **Pulchra es** z Šalamounovy Písně písní 6,4-5
 * Význam: Autor (hudby) uvádí, že je to dílo o kráse, o "strašné" síle krásy.
 * Překlad: \
   Jsi krásná, má přítelkyně, sladká a krásná dcero Jeruzaléma. \
