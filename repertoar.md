@@ -14,11 +14,21 @@
 * Význam: je to hymnus na Pannu Marii
 * Překlad: Zdrávas, vznešená, plná slávy a nedotčená dívko, Ty zřítelnice čistoty, Ty látko svatosti, v níž Bůh si zalíbil!
 
+## Exsultate justi
+
+* Hudba: Ludovico da Viadana (1564 -- 1645), italský skladatel, učitel a františkán. Jeho hudba je na pomezí konce renesance a začátku baroka.
+* Text: Žalm 33, 1-3; latinsky: Exsultate justi in domino: rectos decet collaudatio...
+* Překlad: \
+  Radujte se, spravedliví z Hospodina, sluší se, aby ho dobří chválili. \
+  Citerou oslavujte Hospodina, hrejte mu na desetistrunné harfě. \
+  Zpívejte mu píseň novou, dovedně sáhněte do strun, slavnostně je rozezvučte!
+* Ukázka na [YouTube](https://www.youtube.com/watch?v=6AMUX43EMhI)
+
 ## Northern Lights (Severní polární záře)
 
 * Hudba: [Ola Gjeilo](https://olagjeilo.com/sheet-music/choral-satb-a-cappella/northern-lights/) (Oslo, leden 2008) \
   je inspirována také éterickým jevem polární záře.
-* Latinský text **Pulchra es** z Šalamounovy Písně písní 6,4-5
+* Latinský text **Pulchra es, amica mea** je úryvek z Šalamounovy Písně písní 6,4-5
 * Význam: Autor (hudby) uvádí, že je to dílo o kráse, o "strašné" síle krásy.
 * Překlad: \
   Jsi krásná, má přítelkyně, sladká a krásná dcero Jeruzaléma. \
@@ -38,8 +48,27 @@
   v pokrm Kristus všemohoucí.
 * Ukázka na [YouTube](https://www.youtube.com/watch?v=XT2VyY6tFhQ)
 
+## Resonet in laudibus
+
+* Hudba (harmonizace): Jacob Handl-Gallus (1550 -- 1591), pozdně renesanční hudební skladatel slovinského původu
+* Text: Anonym ze 14. století -- koleda
+* Přibližný překlad: \
+  Nechte zaznít chválu a plesání. \
+  Maria porodila, co Gabriel zvěstoval se splnilo. \
+  Panna Boha porodila, protože boží milost chtěla. \
+  Dnes se v Izraeli ukázalo, že z Panny Marie se narodil král.
+
+* Ukázka na [YouTube](https://www.youtube.com/watch?v=Skrv-kSQwTE)
+
+## Sicut Servus
+
+* Hudba: Giovanni Pierluigi da Palestrina (1525 -- 2. února 1594) byl italský hudební skladatel a varhaník, vrcholný představitel renesanční hudby.
+* Text latinsky: Sicut cervus desiderat ad fontes aquarum...
+* Překlad: Jako laň dychtí po vodních bystřinách, tak touží duše má po tobě, Bože.
 
 # Rejstřík skladatelů
 
-* [Giuseppe Baini](https://en.wikipedia.org/wiki/Giuseppe_Baini) (21. říjen 1775 – 21. květen 1844)
+* [Giuseppe Baini](https://en.wikipedia.org/wiki/Giuseppe_Baini) (21. říjen 1775 – 21. květen 1844) byl italský kněz, hudební kritik, dirigent a skladatel chrámové hudby. Napsal pojednání o Palestrinovi a jeho renesanční hudbě.
 * [Ola Gjeilo](https://olagjeilo.com/), Norsky: [ˈûːlɑ ˈjæ̀ɪlʊ]; narozen 5. května 1978
+* [Jacob Handl-Gallus](https://hudba.proglas.cz/klasika/aktuality-k-vysilani-klasik/jacob-handl-gallus/) (1550 -- 1591), pozdně renesanční hudební skladatel slovinského původu, velkou část života strávil v Brně, Olomouci a Praze, kde také zemřel.
+* [Giovanni Pierluigi da Palestrina](https://cs.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina) (kolem 1525?, Palestrina – 2. února 1594, Řím) byl italský hudební skladatel a varhaník, vrcholný představitel renesanční hudby a v ní tzv. římské školy. Často zvaný „mistr kontrapunktu“.
