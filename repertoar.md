@@ -21,6 +21,15 @@
 * Význam: je to hymnus na Pannu Marii
 * Překlad: Zdrávas, vznešená, plná slávy a nedotčená dívko, Ty zřítelnice čistoty, Ty látko svatosti, v níž Bůh si zalíbil!
 
+## Biblické písně
+
+* Hudba: Antonín Dvořák (1841 -- 1904) byl jedním z nejvýznamnějších českých hudebních skladatelů. Stal se průkopníkem novodobé české hudby v linii vrcholného romantismu.
+* Text: skladatel zvolil český text z Davidovy Knihy žalmů podle otištění v Bibli Kralické.
+** č. 4: Hospodin je můj pastýř
+** č. 6: Slyš, ó Bože, volání mé
+* Pro smíšený sbor upravil Štěpán Charvát
+* Viz [popis na Wikipedii](https://cs.wikipedia.org/wiki/Biblick%C3%A9_p%C3%ADsn%C4%9B)
+
 ## Cantate Domino
 
 * Hudba: Claudio Monteverdi (1567 -- 1643), italský hudební skladatel, který svými hudebními inovacemi významně přispěl ke zrodu barokního stylu.
@@ -28,6 +37,12 @@
 * Překlad: \
   Zpívejte Hospodinu píseň novou, zpívejte a dobrořečte jeho jménu. \
   Hrejte Hospodinu na citeru, na citeru a s doprovodem zpěvu, protože učinil podivuhodné věci.
+
+## Darà la notte il sol
+
+* Hudba: Claudio Monteverdi (1567 -- 1643), italský hudební skladatel, který svými hudebními inovacemi významně přispěl ke zrodu barokního stylu.
+* Původ textu: italština, Il sesto libro de madrigali (šestá kniha madrigalů), 1614
+* Význam: něco o nenaplněné lásce ???
 
 ## Exsultate justi
 
@@ -123,9 +138,11 @@
 * [Johann Sebastian Bach](https://cs.wikipedia.org/wiki/Johann_Sebastian_Bach) (31. března 1685 Eisenach -- 28. července 1750 Lipsko) byl německý hudební skladatel a virtuos hry na klávesové nástroje, považovaný za jednoho z největších hudebních géniů všech dob a završitele barokního hudebního stylu.
 * [Giuseppe Baini](https://en.wikipedia.org/wiki/Giuseppe_Baini) (21. říjen 1775 – 21. květen 1844) byl italský kněz, hudební kritik, dirigent a skladatel chrámové hudby. Napsal pojednání o Palestrinovi a jeho renesanční hudbě.
 * [Jan Josef Božan](https://cs.wikipedia.org/wiki/Jan_Josef_Bo%C5%BEan) (1644 -- 1. července 1716, Chroustovice) byl římskokatolický kněz, básník a pořadatel kancionálu [Slavíček rájský](https://cs.wikipedia.org/wiki/Slav%C3%AD%C4%8Dek_rajsk%C3%BD), který vyšel tiskem až po jeho smrti.
+* [Antonín Dvořák](https://cs.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k) (8. září 1841 Nelahozeves -- 1. května 1904 Praha) byl jedním z nejvýznamnějších českých hudebních skladatelů a je světově nejhranějším českým skladatelem vůbec. Dvořákova symfonická a koncertantní díla jsou tradiční součástí repertoáru významných orchestrů po celém světě. Síla jeho melodické invence uchvacuje dodnes. Proslavil se symfoniemi, nástrojovými koncerty a velkými vokálně-instrumentálními skladbami, neméně však i komorní hudbou a operami. Dvořák byl spolu s Bedřichem Smetanou průkopníkem novodobé české hudby v linii vrcholného romantismu.
 * [Ola Gjeilo](https://olagjeilo.com/), Norsky: [ˈûːlɑ ˈjæ̀ɪlʊ]; (narozen 5. května 1978) norský skladatel žijící v USA
 * [Jacob Handl-Gallus](https://hudba.proglas.cz/klasika/aktuality-k-vysilani-klasik/jacob-handl-gallus/) (1550 -- 1591), pozdně renesanční hudební skladatel slovinského původu, velkou část života strávil v Brně, Olomouci a Praze, kde také zemřel.
 * [Claudio Monteverdi](https://cs.wikipedia.org/wiki/Claudio_Monteverdi), (1567 -- 1643), italský hudební skladatel z období přelomu renesance a baroka. Monteverdi svými hudebními inovacemi významně přispěl ke zrodu barokního stylu.
 * [Giovanni Pierluigi da Palestrina](https://cs.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina) (kolem 1525?, Palestrina – 2. února 1594, Řím) byl italský hudební skladatel a varhaník, vrcholný představitel renesanční hudby a v ní tzv. římské školy. Často zvaný „mistr kontrapunktu“.
 * [Giuseppe Ottavio Pitoni](https://en.wikipedia.org/wiki/Giuseppe_Ottavio_Pitoni) (Rieti, 18. března 1657 -- Řím, 1 února 1743), byl italský varhaník a skladatel. Stal se jedním z předních hudebníků v Římě v období pozdního baroka, v první polovině 18. století.
 * [Randall Thompson](https://en.wikipedia.org/wiki/Randall_Thompson) (21. dubna 1899 -- 9. července 1984), americký skladatel známý svými sborovými skladbami
+
