@@ -21,12 +21,24 @@
 * Význam: je to hymnus na Pannu Marii
 * Překlad: Zdrávas, vznešená, plná slávy a nedotčená dívko, Ty zřítelnice čistoty, Ty látko svatosti, v níž Bůh si zalíbil!
 
+## Ave verum corpus
+
+* Hudba: [Wolfgang Amadeus Mozart](https://cs.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart), (1756 -- 1791) byl rakouský klasicistní hudební skladatel a klavírní virtuos. _Ave verum corpus_ zhudebnil šest měsíců před svou smrtí. 
+* Text latinský: Ave verum corpus, natum de Maria virgine...
+* Význam: krátká eucharistická píseň pocházející ze 14. století
+* Volný překlad: \
+  Buď pozdraveno skutečné tělo Kristovo zrozené z Marie Panny. \
+  Skutečně trpící a umučené na kříži pro člověka. \
+  Z jeho probodeného boku vytryskla voda a krev. \
+  Ať je nadějí v hodině naší smrti.
+* Viz [popis na Wikipedii](https://cs.wikipedia.org/wiki/Ave_verum_corpus)
+
 ## Biblické písně
 
 * Hudba: Antonín Dvořák (1841 -- 1904) byl jedním z nejvýznamnějších českých hudebních skladatelů. Stal se průkopníkem novodobé české hudby v linii vrcholného romantismu.
 * Text: skladatel zvolil český text z Davidovy Knihy žalmů podle otištění v Bibli Kralické.
-** č. 4: Hospodin je můj pastýř
-** č. 6: Slyš, ó Bože, volání mé
+** Píseň č. 4: Hospodin je můj pastýř
+** Píseň č. 6: Slyš, ó Bože, volání mé
 * Pro smíšený sbor upravil Štěpán Charvát
 * Viz [popis na Wikipedii](https://cs.wikipedia.org/wiki/Biblick%C3%A9_p%C3%ADsn%C4%9B)
 
@@ -143,6 +155,7 @@
 * [Jacob Handl-Gallus](https://hudba.proglas.cz/klasika/aktuality-k-vysilani-klasik/jacob-handl-gallus/) (1550 -- 1591), pozdně renesanční hudební skladatel slovinského původu, velkou část života strávil v Brně, Olomouci a Praze, kde také zemřel.
 * [Claudio Monteverdi](https://cs.wikipedia.org/wiki/Claudio_Monteverdi), (1567 -- 1643), italský hudební skladatel z období přelomu renesance a baroka. Monteverdi svými hudebními inovacemi významně přispěl ke zrodu barokního stylu.
 * [Giovanni Pierluigi da Palestrina](https://cs.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina) (kolem 1525?, Palestrina – 2. února 1594, Řím) byl italský hudební skladatel a varhaník, vrcholný představitel renesanční hudby a v ní tzv. římské školy. Často zvaný „mistr kontrapunktu“.
+* [Wolfgang Amadeus Mozart](https://cs.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart), (27. ledna 1756, Salcburk -- 5. prosince 1791) byl rakouský klasicistní hudební skladatel a klavírní virtuos.
 * [Giuseppe Ottavio Pitoni](https://en.wikipedia.org/wiki/Giuseppe_Ottavio_Pitoni) (Rieti, 18. března 1657 -- Řím, 1 února 1743), byl italský varhaník a skladatel. Stal se jedním z předních hudebníků v Římě v období pozdního baroka, v první polovině 18. století.
 * [Randall Thompson](https://en.wikipedia.org/wiki/Randall_Thompson) (21. dubna 1899 -- 9. července 1984), americký skladatel známý svými sborovými skladbami
 
