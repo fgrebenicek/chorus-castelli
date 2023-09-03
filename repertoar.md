@@ -14,6 +14,14 @@
 * Význam: je to hymnus na Pannu Marii
 * Překlad: Zdrávas, vznešená, plná slávy a nedotčená dívko, Ty zřítelnice čistoty, Ty látko svatosti, v níž Bůh si zalíbil!
 
+## Cantate Domino
+
+* Hudba: Claudio Monteverdi (1567 -- 1643), italský hudební skladatel, který svými hudebními inovacemi významně přispěl ke zrodu barokního stylu.
+* Text: ze žalmů 96 a 98, latinsky: Cantate Domino canticum novum...
+* Překlad: \
+  Zpívejte Hospodinu píseň novou, zpívejte a dobrořečte jeho jménu. \
+  Hrejte Hospodinu na citeru, na citeru a s doprovodem zpěvu, protože učinil podivuhodné věci.
+
 ## Exsultate justi
 
 * Hudba: Ludovico da Viadana (1564 -- 1645), italský skladatel, učitel a františkán. Jeho hudba je na pomezí konce renesance a začátku baroka.
@@ -66,9 +74,16 @@
 * Text latinsky: Sicut cervus desiderat ad fontes aquarum...
 * Překlad: Jako laň dychtí po vodních bystřinách, tak touží duše má po tobě, Bože.
 
+## Z tvé ruky, Pane můj
+
+* Hudba: Claude Fraysse [klód fres] (1941 -- 2012), francouzský skladatel
+* Původní název: Je louerai l'éternel [ž lúre leternel]
+* Autor překladu: Miloš Rejchrt (nar. 1946), evangelický farář
+
 # Rejstřík skladatelů
 
 * [Giuseppe Baini](https://en.wikipedia.org/wiki/Giuseppe_Baini) (21. říjen 1775 – 21. květen 1844) byl italský kněz, hudební kritik, dirigent a skladatel chrámové hudby. Napsal pojednání o Palestrinovi a jeho renesanční hudbě.
 * [Ola Gjeilo](https://olagjeilo.com/), Norsky: [ˈûːlɑ ˈjæ̀ɪlʊ]; narozen 5. května 1978
 * [Jacob Handl-Gallus](https://hudba.proglas.cz/klasika/aktuality-k-vysilani-klasik/jacob-handl-gallus/) (1550 -- 1591), pozdně renesanční hudební skladatel slovinského původu, velkou část života strávil v Brně, Olomouci a Praze, kde také zemřel.
+* [Claudio Monteverdi](https://cs.wikipedia.org/wiki/Claudio_Monteverdi), (1567 -- 1643), italský hudební skladatel z období přelomu renesance a baroka. Monteverdi svými hudebními inovacemi významně přispěl ke zrodu barokního stylu.
 * [Giovanni Pierluigi da Palestrina](https://cs.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina) (kolem 1525?, Palestrina – 2. února 1594, Řím) byl italský hudební skladatel a varhaník, vrcholný představitel renesanční hudby a v ní tzv. římské školy. Často zvaný „mistr kontrapunktu“.
