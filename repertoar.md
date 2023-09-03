@@ -50,6 +50,15 @@
   Chvalte ho zvučnými cimbály, chvalte ho cimbály hlučnými! \
   Všechno, co dýchá, ať chválí Hospodina! Aleluja.
 
+## Nitida Stella
+
+* Hudba: Jan Josef Božan (1644 -- 1716) byl římskokatolický kněz, básník a pořadatel barokního kancionálu Slavíček rájský
+* Text (Slavíček rájský 1719, str. 563), \
+  latinsky: Nitida Stella, alma Puella, tu es florum flos: o Mater pia, Virgo Maria, ora pro nobis.
+* Překlad první sloky: \
+  Jasná hvězdo, spanilá dívko, jsi květina květin: \
+  Ó zbožná Matko, Panno Maria, oroduj za nás.
+
 ## Northern Lights (Severní polární záře)
 
 * Hudba: [Ola Gjeilo](https://olagjeilo.com/sheet-music/choral-satb-a-cappella/northern-lights/) (Oslo, leden 2008) \
@@ -92,6 +101,17 @@
 * Text latinsky: Sicut cervus desiderat ad fontes aquarum...
 * Překlad: Jako laň dychtí po vodních bystřinách, tak touží duše má po tobě, Bože.
 
+## Signore, dolce volto
+
+* Hudba: Johann Sebastian Bach (1685 -- 1750), německý hudební skladatel a virtuos barokního stylu
+* Text: italsky: Signore, dolce volto di pena e di dolor...
+* Význam: křesťanský pašijový hymnus založený na latinském textu napsaném během středověku.
+* Přibližný překlad první sloky: \
+  Pane, tvá sladká tvář je plná bolesti. \
+  Ó tvář plná světla udeřená pro lásku. \
+  Zahalen do smrti, jsi pro nás zatracen. \
+  Přijmi naše slzy, náš spasiteli.
+
 ## Z tvé ruky, Pane můj
 
 * Hudba: Claude Fraysse [klód fres] (1941 -- 2012), francouzský skladatel
@@ -100,8 +120,10 @@
 
 # Rejstřík skladatelů
 
+* [Johann Sebastian Bach](https://cs.wikipedia.org/wiki/Johann_Sebastian_Bach) (31. března 1685 Eisenach -- 28. července 1750 Lipsko) byl německý hudební skladatel a virtuos hry na klávesové nástroje, považovaný za jednoho z největších hudebních géniů všech dob a završitele barokního hudebního stylu.
 * [Giuseppe Baini](https://en.wikipedia.org/wiki/Giuseppe_Baini) (21. říjen 1775 – 21. květen 1844) byl italský kněz, hudební kritik, dirigent a skladatel chrámové hudby. Napsal pojednání o Palestrinovi a jeho renesanční hudbě.
-* [Ola Gjeilo](https://olagjeilo.com/), Norsky: [ˈûːlɑ ˈjæ̀ɪlʊ]; narozen 5. května 1978
+* [Jan Josef Božan](https://cs.wikipedia.org/wiki/Jan_Josef_Bo%C5%BEan) (1644 -- 1. července 1716, Chroustovice) byl římskokatolický kněz, básník a pořadatel kancionálu [Slavíček rájský](https://cs.wikipedia.org/wiki/Slav%C3%AD%C4%8Dek_rajsk%C3%BD), který vyšel tiskem až po jeho smrti.
+* [Ola Gjeilo](https://olagjeilo.com/), Norsky: [ˈûːlɑ ˈjæ̀ɪlʊ]; (narozen 5. května 1978) norský skladatel žijící v USA
 * [Jacob Handl-Gallus](https://hudba.proglas.cz/klasika/aktuality-k-vysilani-klasik/jacob-handl-gallus/) (1550 -- 1591), pozdně renesanční hudební skladatel slovinského původu, velkou část života strávil v Brně, Olomouci a Praze, kde také zemřel.
 * [Claudio Monteverdi](https://cs.wikipedia.org/wiki/Claudio_Monteverdi), (1567 -- 1643), italský hudební skladatel z období přelomu renesance a baroka. Monteverdi svými hudebními inovacemi významně přispěl ke zrodu barokního stylu.
 * [Giovanni Pierluigi da Palestrina](https://cs.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina) (kolem 1525?, Palestrina – 2. února 1594, Řím) byl italský hudební skladatel a varhaník, vrcholný představitel renesanční hudby a v ní tzv. římské školy. Často zvaný „mistr kontrapunktu“.
