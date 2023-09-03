@@ -1,5 +1,12 @@
 # Repertoár
 
+## Alleluia
+
+* Hudba: Randall Thompson (1899 -- 1984), americký skladatel známý svými sborovými skladbami
+* Text: slovo "aleluja" se stále opakuje, jenom na konci zazní "amen"
+* Význam: Skladba vznikla během pěti dní v červenci roku 1940 na objednávku pro zahájení hudebního festivalu v Tanglewoodu a vyjadřuje smutek z probíhající druhé světové války.
+* Viz [popis na Wikipedii](https://en.wikipedia.org/wiki/Alleluia_(Thompson))
+
 ## Ascendit Deus
 
 * Hudba: Peter Philips (c.1565 -- c.1635)
@@ -31,6 +38,17 @@
   Citerou oslavujte Hospodina, hrejte mu na desetistrunné harfě. \
   Zpívejte mu píseň novou, dovedně sáhněte do strun, slavnostně je rozezvučte!
 * Ukázka na [YouTube](https://www.youtube.com/watch?v=6AMUX43EMhI)
+
+## Laudate Dominum
+
+* Hudba: Giuseppe Ottavio Pitoni (1657 -- 1743), italský varhaník a skladatel pozdního baroka.
+* Text: Žalm 150, latinsky: Laudate Dominum in sanctis ejus, laudate eum in firmamento virtutis ejus...
+* Překlad: \
+  Chvalte Hospodina v jeho svatyni, chvalte ho na jeho vznešené obloze! \
+  Chvalte ho pro jeho mocná díla, chvalte ho pro jeho svrchovanou velebnost! \
+  Chvalte ho hlaholem trouby, chvalte ho harfou a citerou! \
+  Chvalte ho zvučnými cimbály, chvalte ho cimbály hlučnými! \
+  Všechno, co dýchá, ať chválí Hospodina! Aleluja.
 
 ## Northern Lights (Severní polární záře)
 
@@ -87,3 +105,5 @@
 * [Jacob Handl-Gallus](https://hudba.proglas.cz/klasika/aktuality-k-vysilani-klasik/jacob-handl-gallus/) (1550 -- 1591), pozdně renesanční hudební skladatel slovinského původu, velkou část života strávil v Brně, Olomouci a Praze, kde také zemřel.
 * [Claudio Monteverdi](https://cs.wikipedia.org/wiki/Claudio_Monteverdi), (1567 -- 1643), italský hudební skladatel z období přelomu renesance a baroka. Monteverdi svými hudebními inovacemi významně přispěl ke zrodu barokního stylu.
 * [Giovanni Pierluigi da Palestrina](https://cs.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina) (kolem 1525?, Palestrina – 2. února 1594, Řím) byl italský hudební skladatel a varhaník, vrcholný představitel renesanční hudby a v ní tzv. římské školy. Často zvaný „mistr kontrapunktu“.
+* [Giuseppe Ottavio Pitoni](https://en.wikipedia.org/wiki/Giuseppe_Ottavio_Pitoni) (Rieti, 18. března 1657 -- Řím, 1 února 1743), byl italský varhaník a skladatel. Stal se jedním z předních hudebníků v Římě v období pozdního baroka, v první polovině 18. století.
+* [Randall Thompson](https://en.wikipedia.org/wiki/Randall_Thompson) (21. dubna 1899 -- 9. července 1984), americký skladatel známý svými sborovými skladbami
