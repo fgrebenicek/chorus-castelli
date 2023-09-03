@@ -139,6 +139,13 @@
   Zahalen do smrti, jsi pro nás zatracen. \
   Přijmi naše slzy, náš spasiteli.
 
+## Vere languores nostros
+
+* Hudba: Antonio Lotti (1667 -- 1740) byl italský barokní hudební skladatel
+* Text latinsky (Vulgáta, Izaiáš 53,4): Vere languores nostros ipse tulit, et dolores nostros ipse portavit.
+* Význam: prorok Izaiáš o trpícím služebníkovi (Kristovi)
+* Překlad (ČLP): A přece on nesl naše utrpení, obtížil se našimi bolestmi.
+
 ## Z tvé ruky, Pane můj
 
 * Hudba: Claude Fraysse [klód fres] (1941 -- 2012), francouzský skladatel
@@ -153,6 +160,7 @@
 * [Antonín Dvořák](https://cs.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k) (8. září 1841 Nelahozeves -- 1. května 1904 Praha) byl jedním z nejvýznamnějších českých hudebních skladatelů a je světově nejhranějším českým skladatelem vůbec. Dvořákova symfonická a koncertantní díla jsou tradiční součástí repertoáru významných orchestrů po celém světě. Síla jeho melodické invence uchvacuje dodnes. Proslavil se symfoniemi, nástrojovými koncerty a velkými vokálně-instrumentálními skladbami, neméně však i komorní hudbou a operami. Dvořák byl spolu s Bedřichem Smetanou průkopníkem novodobé české hudby v linii vrcholného romantismu.
 * [Ola Gjeilo](https://olagjeilo.com/), Norsky: [ˈûːlɑ ˈjæ̀ɪlʊ]; (narozen 5. května 1978) norský skladatel žijící v USA
 * [Jacob Handl-Gallus](https://hudba.proglas.cz/klasika/aktuality-k-vysilani-klasik/jacob-handl-gallus/) (1550 -- 1591), pozdně renesanční hudební skladatel slovinského původu, velkou část života strávil v Brně, Olomouci a Praze, kde také zemřel.
+* [Antonio Lotti](https://cs.wikipedia.org/wiki/Antonio_Lotti) (5. ledna 1667, Benátky – 5. ledna 1740, Benátky) byl italský barokní hudební skladatel. Komponoval mše, kantáty, madrigaly, opery a velké množství instrumentální hudby. Jeho chorály jsou komponovány často a cappella. Jeho dílo tvoří přechod mezi pozdním barokem a rodícím se klasicismem.
 * [Claudio Monteverdi](https://cs.wikipedia.org/wiki/Claudio_Monteverdi), (1567 -- 1643), italský hudební skladatel z období přelomu renesance a baroka. Monteverdi svými hudebními inovacemi významně přispěl ke zrodu barokního stylu.
 * [Giovanni Pierluigi da Palestrina](https://cs.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina) (kolem 1525?, Palestrina – 2. února 1594, Řím) byl italský hudební skladatel a varhaník, vrcholný představitel renesanční hudby a v ní tzv. římské školy. Často zvaný „mistr kontrapunktu“.
 * [Wolfgang Amadeus Mozart](https://cs.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart), (27. ledna 1756, Salcburk -- 5. prosince 1791) byl rakouský klasicistní hudební skladatel a klavírní virtuos.
