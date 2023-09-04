@@ -4,14 +4,14 @@
 
 * Hudba: Randall Thompson (1899 -- 1984), americký skladatel známý svými sborovými skladbami
 * Text: slovo "aleluja" se stále opakuje, jenom na konci zazní "amen"
-* Význam: Skladba vznikla během pěti dní v červenci roku 1940 na objednávku pro zahájení hudebního festivalu v Tanglewoodu a vyjadřuje smutek z probíhající druhé světové války.
+* Význam: Skladba vznikla během pěti dní v červenci roku 1940 na objednávku pro zahájení hudebního festivalu v Tanglewoodu. Měla být vstupní fanfárou, ale ve skutečnosti vyjadřuje smutek z probíhající války, která vypukla v Evropě (a které dnes říkáme "druhá světová").
 * Viz [popis na Wikipedii](https://en.wikipedia.org/wiki/Alleluia_(Thompson))
 
 ## Ascendit Deus
 
-* Hudba: Peter Philips (c.1565 -- c.1635)
-* Text: Žalm 47, verš 6... (Bible)
-* Překlad: Bůh se vznáší za jásotu, Hospodin vystupuje za hlaholu polnice...
+* Hudba: Peter Philips (c.1560 -- 1628), britský barokní skladatel
+* Text: Žalm 47, verš 6, latinsky: Ascendit Deus in jubilatione, et Dominus in voce tube.
+* Překlad: Bůh se vznáší za jásotu, Hospodin vystupuje za hlaholu polnice.
 * Ukázka na [YouTube](https://www.youtube.com/watch?v=Kc6F6RecWSo)
 
 ## Ave Generosa
@@ -119,7 +119,6 @@
   Maria porodila, co Gabriel zvěstoval se splnilo. \
   Panna Boha porodila, protože boží milost chtěla. \
   Dnes se v Izraeli ukázalo, že z Panny Marie se narodil král.
-
 * Ukázka na [YouTube](https://www.youtube.com/watch?v=Skrv-kSQwTE)
 
 ## Sicut Servus
@@ -164,6 +163,8 @@
 * [Claudio Monteverdi](https://cs.wikipedia.org/wiki/Claudio_Monteverdi), (1567 -- 1643), italský hudební skladatel z období přelomu renesance a baroka. Monteverdi svými hudebními inovacemi významně přispěl ke zrodu barokního stylu.
 * [Giovanni Pierluigi da Palestrina](https://cs.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina) (kolem 1525?, Palestrina – 2. února 1594, Řím) byl italský hudební skladatel a varhaník, vrcholný představitel renesanční hudby a v ní tzv. římské školy. Často zvaný „mistr kontrapunktu“.
 * [Wolfgang Amadeus Mozart](https://cs.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart), (27. ledna 1756, Salcburk -- 5. prosince 1791) byl rakouský klasicistní hudební skladatel a klavírní virtuos.
+* [Peter Philips](https://www.britannica.com/biography/Peter-Philips) (c.1560 -- 1628), britský barokní skladatel, \
+  Viz též [Wikipedia](https://en.wikipedia.org/wiki/Peter_Philips)
 * [Giuseppe Ottavio Pitoni](https://en.wikipedia.org/wiki/Giuseppe_Ottavio_Pitoni) (Rieti, 18. března 1657 -- Řím, 1 února 1743), byl italský varhaník a skladatel. Stal se jedním z předních hudebníků v Římě v období pozdního baroka, v první polovině 18. století.
 * [Randall Thompson](https://en.wikipedia.org/wiki/Randall_Thompson) (21. dubna 1899 -- 9. července 1984), americký skladatel známý svými sborovými skladbami
 
