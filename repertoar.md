@@ -37,8 +37,8 @@
 
 * Hudba: Antonín Dvořák (1841 -- 1904) byl jedním z nejvýznamnějších českých hudebních skladatelů. Stal se průkopníkem novodobé české hudby v linii vrcholného romantismu.
 * Text: skladatel zvolil český text z Davidovy Knihy žalmů podle otištění v Bibli Kralické.
-** Píseň č. 4: Hospodin je můj pastýř
-** Píseň č. 6: Slyš, ó Bože, volání mé
+    + Píseň č. 4: Hospodin je můj pastýř
+    + Píseň č. 6: Slyš, ó Bože, volání mé
 * Pro smíšený sbor upravil Štěpán Charvát
 * Viz [popis na Wikipedii](https://cs.wikipedia.org/wiki/Biblick%C3%A9_p%C3%ADsn%C4%9B)
 
