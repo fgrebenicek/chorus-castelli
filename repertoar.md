@@ -77,6 +77,24 @@
   Chvalte ho zvučnými cimbály, chvalte ho cimbály hlučnými! \
   Všechno, co dýchá, ať chválí Hospodina! Aleluja.
 
+## Nearer my God, to thee
+
+* Připravujeme...
+* Hudba: Lowell Mason
+* Úprava: James L. Stevens
+* Předtext: \
+  In articulo mortis caelitus mihi vires. \
+  V okamžiku smrti nebe mi dává sílu.
+* Text: Sarah E. Adams \
+  Nearer, my God, to Thee, \
+  Nearer to Thee! \
+  E’en though it be a cross \
+  That raiseth me. \
+  ...
+* Ukázka č. 1 na [YouTube](https://www.youtube.com/watch?v=WyxXGdG3-Io)
+* Ukázka č. 2 na [YouTube](https://www.youtube.com/watch?v=EpVKUhVR5sk)
+* Úprava James L. Stevens pro [TTBB](https://www.byumusicstore.com/nearer-my-god-to-thee-arr-by-james-l-stevens-ttbb-a-cappella-pdf-sheet-music/?utm_source=youtube_description&utm_medium=cpm&utm_campaign=vp_nearer-my-god_mvhits1&utm_content=59)
+
 ## Nitida Stella
 
 * Hudba: Jan Josef Božan (1644 -- 1716) byl římskokatolický kněz, básník a pořadatel barokního kancionálu Slavíček rájský
