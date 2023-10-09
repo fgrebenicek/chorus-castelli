@@ -115,6 +115,19 @@
   Jsi krásná, má přítelkyně, sladká a krásná jako Jeruzalém, strašná jako vojsko pod praporci. \
   Odvrať ode mne své oči, vždyť mě uhranuly!
 
+## O magnum mysterium
+
+* Hudba: Tomás Luis de Victoria (c. 1548 -- 1611), španělský hudební skladatel pozdní renesance, varhaník, kněz
+* Text latinsky: \
+  O magnum mysterium et admirabile sacramentum, \
+  ut animalia viderent Dominum natum iacentem in praesepio. \
+  Beata virgo, cuius viscera meruerunt portare Dominum Christum.
+* Překlad: \
+  Ó veliké tajemství a obdivuhodná milost, \
+  že zvířata mohla vidět narozeného Pána ležícího v jeslích. \
+  Blažená panno, jejíž lůno smělo nosit Pána Ježíše.
+* Ukázka na [YouTube](https://www.youtube.com/watch?v=9xPh-fXYAc4)
+
 ## Panis angelicus
 
 * Hudba: Giuseppe Baini (21. říjen 1775 – 21. květen 1844) byl italský kněz, hudební kritik, dirigent a skladatel chrámové hudby
