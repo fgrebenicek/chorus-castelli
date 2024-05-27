@@ -79,12 +79,21 @@
 
 ## Nearer my God, to thee
 
-* Připravujeme...
 * Hudba: Lowell Mason
 * Úprava: James L. Stevens
 * Předtext: \
   In articulo mortis caelitus mihi vires. \
   V okamžiku smrti nebe mi dává sílu.
+<!--
+In articulo mortis
+Caelitus mihi vires
+Deo adjuvante non timendum
+In perpetuum
+Dirige nos domine
+Ad augusta per angusta
+Sic itur ad astra
+Excelsior
+-->
 * Text: Sarah E. Adams \
   Nearer, my God, to Thee, \
   Nearer to Thee! \
@@ -152,6 +161,11 @@
   Dnes se v Izraeli ukázalo, že z Panny Marie se narodil král.
 * Ukázka na [YouTube](https://www.youtube.com/watch?v=Skrv-kSQwTE)
 
+## Responsoria pro Hebdomada Sancta / Sepulto Domino (ZWV 55/27)
+
+* Hudba: Jan Dismas Zelenka
+* Noty: https://www.cpdl.org/wiki/images/a/a5/27-Sepulto-Domino.pdf
+
 ## Sicut Servus
 
 * Hudba: Giovanni Pierluigi da Palestrina (1525 -- 2. února 1594) byl italský hudební skladatel a varhaník, vrcholný představitel renesanční hudby.
@@ -198,4 +212,6 @@
   Viz též [Wikipedia](https://en.wikipedia.org/wiki/Peter_Philips)
 * [Giuseppe Ottavio Pitoni](https://en.wikipedia.org/wiki/Giuseppe_Ottavio_Pitoni) (Rieti, 18. března 1657 -- Řím, 1 února 1743), byl italský varhaník a skladatel. Stal se jedním z předních hudebníků v Římě v období pozdního baroka, v první polovině 18. století.
 * [Randall Thompson](https://en.wikipedia.org/wiki/Randall_Thompson) (21. dubna 1899 -- 9. července 1984), americký skladatel známý svými sborovými skladbami
+* [Jan Dismas Zelenka](https://cs.wikipedia.org/wiki/Jan_Dismas_Zelenka) (křtěn 16. října 1679, Louňovice pod Blaníkem[2] – noc z 22. na 23. prosince 1745, Drážďany) byl český skladatel období vrcholného baroka. Zelenkův přínos spočívá především ve specifické, nápadité, vždy překvapující harmonizaci, dokonalosti umění kontrapunktu a originalitě instrumentace. Někdy se mu přezdívá „český Bach.“
+
 
