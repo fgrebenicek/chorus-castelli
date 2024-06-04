@@ -163,8 +163,19 @@ Excelsior
 
 ## Responsoria pro Hebdomada Sancta / Sepulto Domino (ZWV 55/27)
 
-* Hudba: Jan Dismas Zelenka
+* Hudba: Jan Dismas Zelenka (1679 -- 1745), český skladatel období vrcholného baroka.
+* Text latinsky: \
+  Sepulto Domino, signatum est monumentum, \
+  volventes lapidem ad ostium monumenti: \
+  Ponentes milites, qui custodirent illum. \
+  Accendentes principes sacerdotum ad Pilatum, petierunt illum.
+* Text -- český překlad (úryvek z pašijí): \
+  Pochován Pán a zapečetěn jest hrob, \
+  a přivalili kámen ke vchodu do hrobu. \
+  Postavili vojáky, kteří jej střežili. \
+  Velekněží přišli k Pilátovi a žádali ho.
 * Noty: https://www.cpdl.org/wiki/images/a/a5/27-Sepulto-Domino.pdf
+* Ukázka na [YouTube](https://www.youtube.com/watch?v=9Ha6x7OA6QY)
 
 ## Sicut Servus
 
