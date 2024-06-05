@@ -191,7 +191,7 @@ Excelsior
 * Noty: https://www.cpdl.org/wiki/images/a/a5/27-Sepulto-Domino.pdf
 * Ukázka na [YouTube](https://www.youtube.com/watch?v=9Ha6x7OA6QY)
 
-## Sicut Servus
+## Sicut cervus
 
 * Hudba: Giovanni Pierluigi da Palestrina (1525 -- 2. února 1594) byl italský hudební skladatel a varhaník, vrcholný představitel renesanční hudby.
 * Text žalm 41, verš 2, latinsky: Sicut cervus desiderat ad fontes aquarum...
