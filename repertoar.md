@@ -66,6 +66,20 @@
   Zpívejte mu píseň novou, dovedně sáhněte do strun, slavnostně je rozezvučte!
 * Ukázka na [YouTube](https://www.youtube.com/watch?v=6AMUX43EMhI)
 
+## Jesu dulcis memoria
+
+* Hudba: Tomás Luis de Victoria (1548 -- 1611 Madrid) španělský hudební skladatel, varhaník (a kněz) období zvaného Siglo de Oro.
+* Text latinsky: \
+  Iesu, dulcis memoria, \
+  dans vera cordis gaudia \
+  sed super mel et omnia, \
+  eius dulcis praesentia.
+* Překlad: \
+  Ježíši, sladká památko, \
+  darovaná pravá radosti srdce \
+  ale nad med a všechno \
+  je tvá sladká přítomnost.
+
 ## Laudate Dominum
 
 * Hudba: Giuseppe Ottavio Pitoni (1657 -- 1743), italský varhaník a skladatel pozdního baroka.
@@ -180,7 +194,7 @@ Excelsior
 ## Sicut Servus
 
 * Hudba: Giovanni Pierluigi da Palestrina (1525 -- 2. února 1594) byl italský hudební skladatel a varhaník, vrcholný představitel renesanční hudby.
-* Text latinsky: Sicut cervus desiderat ad fontes aquarum...
+* Text žalm 41, verš 2, latinsky: Sicut cervus desiderat ad fontes aquarum...
 * Překlad: Jako laň dychtí po vodních bystřinách, tak touží duše má po tobě, Bože.
 
 ## Signore, dolce volto
@@ -223,6 +237,7 @@ Excelsior
   Viz též [Wikipedia](https://en.wikipedia.org/wiki/Peter_Philips)
 * [Giuseppe Ottavio Pitoni](https://en.wikipedia.org/wiki/Giuseppe_Ottavio_Pitoni) (Rieti, 18. března 1657 -- Řím, 1 února 1743), byl italský varhaník a skladatel. Stal se jedním z předních hudebníků v Římě v období pozdního baroka, v první polovině 18. století.
 * [Randall Thompson](https://en.wikipedia.org/wiki/Randall_Thompson) (21. dubna 1899 -- 9. července 1984), americký skladatel známý svými sborovými skladbami
+* [Tomás Luis de Victoria](https://cs.wikipedia.org/wiki/Tom%C3%A1s_Luis_de_Victoria) (asi 1548 Ávila (Sanchidrián) – 27. srpna 1611 Madrid) byl španělský hudební skladatel období zvaného Siglo de Oro. Byl vysvěcen na jáhna, posléze se stal knězem a sloužil jako duchovní a varhaník v klášteře.
 * [Jan Dismas Zelenka](https://cs.wikipedia.org/wiki/Jan_Dismas_Zelenka) (křtěn 16. října 1679, Louňovice pod Blaníkem[2] – noc z 22. na 23. prosince 1745, Drážďany) byl český skladatel období vrcholného baroka. Zelenkův přínos spočívá především ve specifické, nápadité, vždy překvapující harmonizaci, dokonalosti umění kontrapunktu a originalitě instrumentace. Někdy se mu přezdívá „český Bach.“
 
 
