@@ -188,7 +188,7 @@ Excelsior
   a přivalili kámen ke vchodu do hrobu. \
   Postavili vojáky, kteří jej střežili. \
   Velekněží přišli k Pilátovi a žádali ho.
-* Noty: https://www.cpdl.org/wiki/images/a/a5/27-Sepulto-Domino.pdf
+* Noty: <https://www.cpdl.org/wiki/images/a/a5/27-Sepulto-Domino.pdf>
 * Ukázka na [YouTube](https://www.youtube.com/watch?v=9Ha6x7OA6QY)
 
 ## Sicut cervus
