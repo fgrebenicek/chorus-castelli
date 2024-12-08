@@ -151,7 +151,7 @@ Excelsior
   Blažená panno, jejíž lůno smělo nosit Pána Ježíše.
 * Ukázka na [YouTube](https://www.youtube.com/watch?v=9xPh-fXYAc4)
 
-## O sacrom convivium
+## O sacrum convivium
 
 * Hudba: Giovanni Battista Pergolesi (4. ledna 1710, Jesi – 16. března 1736, Pozzuoli) byl italský hudební skladatel barokního období, jeden z nejslavnějších a nejvýznamnějších skladatelů neapolské školy.
 * Text latinsky: \
