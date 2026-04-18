@@ -7,6 +7,7 @@
 ## Latinské texty
 
 * [Collegium Strahoviense](https://www.sbor-strahov.cz/PHP/Texty.php?id_text=0&button=N%C3%A1vrat+na+p%C5%99ehled+text%C5%AF#P)
+* [Sbor sv. Jiří](http://www.sborsvjiri.cz/texty.html)
 
 ## Skladby
 

@@ -66,6 +66,20 @@
   Zpívejte mu píseň novou, dovedně sáhněte do strun, slavnostně je rozezvučte!
 * Ukázka na [YouTube](https://www.youtube.com/watch?v=6AMUX43EMhI)
 
+## Christus factus est
+
+* Hudba: Felice Anerio (1560 -- 1614), italský skladatel pozdní renesance. V roce 1594 vystřídal Palestrinu ve vedení papežského sboru Sixtinské kaple.
+* Latinský text je úryvkem z listu Filipským (2,8) a v liturgii se používá jako graduale během Svatého týdne.
+* Text: \
+  Christus factus est pro nobis obediens usque ad mortem autem crucis. \
+  Propter quod et Deus exaltavit illum et dedit illi nomen, \
+  quod est super omne nomen.
+* Překlad: \
+  Kristus se pro nás stal poslušným až k smrti, a to k smrti na kříži. \
+  Proto ho Bůh povýšil a dal mu jméno, \
+  které je nade všechna jména.
+
+
 ## Jesu dulcis memoria
 
 * Hudba: Tomás Luis de Victoria (1548 -- 1611 Madrid) španělský hudební skladatel, varhaník (a kněz) období zvaného Siglo de Oro.
@@ -239,6 +253,7 @@ Excelsior
 
 # Rejstřík skladatelů
 
+* [Felice Anerio](https://cs.wikipedia.org/wiki/Felice_Anerio) (1560 Řím -- 26. nebo 27. září 1614), italský skladatel pozdní renesance. V roce 1594 vystřídal Palestrinu ve vedení papežského sboru Sixtinské kaple.
 * [Johann Sebastian Bach](https://cs.wikipedia.org/wiki/Johann_Sebastian_Bach) (31. března 1685 Eisenach -- 28. července 1750 Lipsko) byl německý hudební skladatel a virtuos hry na klávesové nástroje, považovaný za jednoho z největších hudebních géniů všech dob a završitele barokního hudebního stylu.
 * [Giuseppe Baini](https://en.wikipedia.org/wiki/Giuseppe_Baini) (21. říjen 1775 – 21. květen 1844) byl italský kněz, hudební kritik, dirigent a skladatel chrámové hudby. Napsal pojednání o Palestrinovi a jeho renesanční hudbě.
 * [Jan Josef Božan](https://cs.wikipedia.org/wiki/Jan_Josef_Bo%C5%BEan) (1644 -- 1. července 1716, Chroustovice) byl římskokatolický kněz, básník a pořadatel kancionálu [Slavíček rájský](https://cs.wikipedia.org/wiki/Slav%C3%AD%C4%8Dek_rajsk%C3%BD), který vyšel tiskem až po jeho smrti.
@@ -246,6 +261,7 @@ Excelsior
 * [Ola Gjeilo](https://olagjeilo.com/), Norsky: [ˈûːlɑ ˈjæ̀ɪlʊ]; (narozen 5. května 1978) norský skladatel žijící v USA
 * [Jacob Handl-Gallus](https://hudba.proglas.cz/klasika/aktuality-k-vysilani-klasik/jacob-handl-gallus/) (1550 -- 1591), pozdně renesanční hudební skladatel slovinského původu, velkou část života strávil v Brně, Olomouci a Praze, kde také zemřel.
 * [Antonio Lotti](https://cs.wikipedia.org/wiki/Antonio_Lotti) (5. ledna 1667, Benátky – 5. ledna 1740, Benátky) byl italský barokní hudební skladatel. Komponoval mše, kantáty, madrigaly, opery a velké množství instrumentální hudby. Jeho chorály jsou komponovány často a cappella. Jeho dílo tvoří přechod mezi pozdním barokem a rodícím se klasicismem.
+* [Adam Václav Michna z Otradovic](https://cs.wikipedia.org/wiki/Adam_Michna_z_Otradovic) (1600? -- 2.11.1676) byl český raně barokní básník, hudební skladatel, sbormistr a varhaník.
 * [Claudio Monteverdi](https://cs.wikipedia.org/wiki/Claudio_Monteverdi), (1567 -- 1643), italský hudební skladatel z období přelomu renesance a baroka. Monteverdi svými hudebními inovacemi významně přispěl ke zrodu barokního stylu.
 * [Giovanni Battista Pergolesi](https://cs.wikipedia.org/wiki/Giovanni_Battista_Pergolesi) (někdy též Giambattista Pergolesi, původním příjmením Draghi, či Drago, 4. ledna 1710, Jesi – 16. března 1736, Pozzuoli) byl italský hudební skladatel barokního období, jeden z nejslavnějších a nejvýznamnějších skladatelů neapolské školy.
 * [Giovanni Pierluigi da Palestrina](https://cs.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina) (kolem 1525?, Palestrina – 2. února 1594, Řím) byl italský hudební skladatel a varhaník, vrcholný představitel renesanční hudby a v ní tzv. římské školy. Často zvaný „mistr kontrapunktu“.
